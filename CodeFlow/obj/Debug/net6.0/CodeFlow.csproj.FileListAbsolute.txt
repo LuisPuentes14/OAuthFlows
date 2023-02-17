@@ -1,0 +1,62 @@
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\appsettings.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\CodeFlow.staticwebassets.runtime.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\CodeFlow.exe
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\CodeFlow.deps.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\CodeFlow.runtimeconfig.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\CodeFlow.dll
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\bin\Debug\net6.0\CodeFlow.pdb
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.csproj.AssemblyReference.cache
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.AssemblyInfoInputs.cache
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.AssemblyInfo.cs
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.csproj.CoreCompileInputs.cache
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.RazorAssemblyInfo.cache
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.RazorAssemblyInfo.cs
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.CodeFlow.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.build.CodeFlow.props
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CodeFlow.props
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CodeFlow.props
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\scopedcss\bundle\CodeFlow.styles.css
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\scopedcss\projectbundle\CodeFlow.bundle.scp.css
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.dll
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\refint\CodeFlow.dll
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.pdb
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\CodeFlow.genruntimeconfig.cache
+C:\Users\WPOSS\Documents\Archivos_Brayan\Proyectos\Guayaquil\OAuthFlows\CodeFlow\obj\Debug\net6.0\ref\CodeFlow.dll
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\appsettings.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\CodeFlow.staticwebassets.runtime.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\CodeFlow.exe
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\CodeFlow.deps.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\CodeFlow.runtimeconfig.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\CodeFlow.dll
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\bin\Debug\net6.0\CodeFlow.pdb
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.AssemblyInfoInputs.cache
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.AssemblyInfo.cs
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.RazorAssemblyInfo.cache
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.RazorAssemblyInfo.cs
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.CodeFlow.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.build.CodeFlow.props
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CodeFlow.props
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CodeFlow.props
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\scopedcss\bundle\CodeFlow.styles.css
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\scopedcss\projectbundle\CodeFlow.bundle.scp.css
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.dll
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\refint\CodeFlow.dll
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.pdb
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\CodeFlow.genruntimeconfig.cache
+C:\Users\aleja\Downloads\OAuthFlows (1)\CodeFlow\obj\Debug\net6.0\ref\CodeFlow.dll

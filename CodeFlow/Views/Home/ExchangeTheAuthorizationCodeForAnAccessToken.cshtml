@@ -1,0 +1,44 @@
+﻿@model (string Status, string Content, bool IsSuccess)
+@{
+    ViewData["Title"] = "Exchange The Authorization Code For an Access Token";
+}
+
+<div class="card">
+    <div class="card-header">
+        El Token de Acceso
+    </div>
+
+    <div class="card-body">
+        <form action="/call/the/api" method="post">
+            <input type="hidden" name="token"
+                   value="@Model.Content" />
+            <p>
+                Estatus
+            </p>
+
+            <p class="response-content">
+                @Model.Status
+            </p>
+
+            <p>
+                Contenido
+            </p>
+
+            <p class="response-content">
+                @Model.Content
+            </p>
+
+            @if (Model.IsSuccess)
+            {
+                <p>
+                    Ahora podemos invocar la Api
+                </p>
+                <p class="text-center">
+                    <button class="btn btn-primary">
+                        Invocar la Api
+                    </button>
+                </p>
+            }
+        </form>
+    </div>
+</div>

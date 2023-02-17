@@ -1,0 +1,26 @@
+﻿@model (string Status, string Content)
+@{
+    ViewData["Title"] = "Call The API";
+}
+
+<h3>Paso 4: Acceder al recurso protegido con el token de acceso</h3>
+<p>
+    Este es el resultado de la llamada a la API.
+</p>
+<div class="card">
+    <div class="card-header">
+        Respuesta de la API
+    </div>
+    <div class="card-body">
+        Estatus
+        <p class="response-content">
+            @Model.Status
+        </p>
+        Contenido
+        <p class="response-content">
+            @Model.Content
+        </p>
+    </div>
+
+    <a href="https://login.microsoftonline.com/9a1fe367-57b7-41a3-95ab-334b35ac703d/oauth2/logout?post_logout_redirect_uri=https://localhost:44300/">cerrar sesision</a>
+</div>
